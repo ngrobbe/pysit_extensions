@@ -1,0 +1,16 @@
+README
+setup.py
+pysit_extensions/__init__.py
+pysit_extensions/example.py
+pysit_extensions.example.egg-info/PKG-INFO
+pysit_extensions.example.egg-info/SOURCES.txt
+pysit_extensions.example.egg-info/dependency_links.txt
+pysit_extensions.example.egg-info/namespace_packages.txt
+pysit_extensions.example.egg-info/not-zip-safe
+pysit_extensions.example.egg-info/requires.txt
+pysit_extensions.example.egg-info/top_level.txt
+pysit_extensions/tests/__init__.py
+pysit_extensions/tests/test_example.py
+pysit_extensions/ximage/__init__.py
+pysit_extensions/ximage/get_clip.py
+pysit_extensions/ximage/ximage.py

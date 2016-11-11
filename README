@@ -1,0 +1,21 @@
+This is a template for a pysit_extensions namespace(*) package.
+
+PySIT extensions are packages that depend on PySIT but are either not released 
+publically or are released under a more restrictive license.
+
+The intention is that all PySIT extensions will be accessible in the following 
+manner:
+
+>>> import pysit_extension.example
+
+To create a PySIT extension package:
+
+1) Fork or copy this template package.
+2) Modify the root setup.py according to the comments.
+3) Do not change pysit_extensions/__init__.py.  Do not change the name of the 
+pysit_extensions directory.
+4) Write your new package/module in the pysit_extensions directory exactly how 
+you would any other package.
+
+(*) A namespace package allows all packages that use this template to be 
+available under the same namespace.
